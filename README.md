@@ -105,7 +105,7 @@ Projet réalisé par **Teddy Kana**
 
 ## 📸 Aperçu de l'interface
 
-<img src="frontend/public/demo-ui.png" width="600">
+<img src="frontend/public/demo-ui.jpeg" width="600">
 
 ---
 
