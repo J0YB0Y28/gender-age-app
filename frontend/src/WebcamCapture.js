@@ -60,7 +60,7 @@ const WebcamCapture = () => {
     formData.append("image", imageBlob, "image.jpg");
 
     try {
-      const res = await axios.post("http://localhost:5000/predict", formData);
+      const res = await axios.post("https://gender-age-app.onrender.com/predict", formData);
       setResult(res.data);
     } catch (err) {
       console.error(err);
