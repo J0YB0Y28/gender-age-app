@@ -15,7 +15,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-start bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-white transition-colors duration-300">
+    <div className="min-h-screen flex flex-col items-center justify-center bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-white transition-colors duration-300">
       <div className="w-full flex justify-between items-center px-6 pt-4">
         <h1 className="text-2xl font-bold">Gender & Age Detector 👁️‍🗨️</h1>
         <button
