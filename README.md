@@ -105,7 +105,7 @@ Projet réalisé par **Teddy Kana**
 
 ## 📸 Aperçu de l'interface
 
-_(à ajouter dans tes fichiers si tu veux une capture sous `frontend/public/demo-gender-age.png`)_
+<img src="frontend/public/demo-ui.png" width="600">
 
 ---
 
