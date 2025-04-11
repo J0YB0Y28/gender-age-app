@@ -7,7 +7,7 @@ Bienvenue dans le projet **Gender & Age Detection**, une application complète p
 
 ## 🔗 Démo en ligne
 
-🌐 Application Web : [https://gender-age-app-j0yb0y28.vercel.app/](https://gender-age-app-j0yb0y28.vercel.app/) *(à remplacer par ton lien Vercel)*
+🌐 Application Web : [https://gender-age-app-j0yb0y28.vercel.app/](https://gender-age-app-j0yb0y28.vercel.app/) 
 
 ---
 
