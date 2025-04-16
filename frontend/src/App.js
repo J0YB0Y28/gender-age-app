@@ -57,7 +57,7 @@ function App() {
     </a>{" "}
     | 🌐{" "}
     <a
-      href="https://j0yb0y28.github.io/portfolio/"
+      href="https://teddy-kana-portfolio.vercel.app/"
       target="_blank"
       rel="noopener noreferrer"
       className="text-blue-500 hover:underline"
